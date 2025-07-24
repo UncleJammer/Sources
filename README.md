@@ -4,6 +4,8 @@
 
 ## Python
 
+### Bots
+
 ## WEB Design
 
 - [Figma](https://www.figma.com/)
