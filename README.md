@@ -6,5 +6,5 @@
 
 ## WEB Design
 
-- Figma
+- [Figma](https://www.figma.com/)
 - [BentoGrids](https://bentogrids.com/)
